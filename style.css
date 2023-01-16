@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(181, 255, 230);
+}
+
+.date{
+  display: inline;
+  margin-right: 35px;
+  padding-bottom:  15px;
+}
+.cmnts{
+  display: inline;
+}
+.main-div{
+  padding-right:50px;
+  padding-left: 50px;
+
+  height: 1000px;
+  width: 500px;
+}
+
+.bday{
+  color: red;
+}
+
+.date-icon{
+  height: 18px;
+ 
+}
+.cmnts-icon{
+  height: 18px;
+}

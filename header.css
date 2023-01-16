@@ -1,0 +1,16 @@
+.header-div{
+  display: flex;
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  background-color: rgb(47, 78, 173);
+  height: 50px;
+  justify-content: space-between;
+}
+
+.header-div div{
+  display: flex;
+  color: whitesmoke;
+
+}
